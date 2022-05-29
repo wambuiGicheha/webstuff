@@ -8,6 +8,18 @@ body{
     font-family: sans-serif;
   }
   
+.photo{
+ 
+  max-width: 400px;
+  height: 200px;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}  
+
+
 h1, h2, p {
     text-align: center;
   }
