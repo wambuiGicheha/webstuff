@@ -50,3 +50,7 @@ h1, h2, p {
     text-align: right;
     width: 25%
   }
+
+  #message{
+    display: flex;
+  }
